@@ -49,4 +49,6 @@ public class Employee {
 
     @NotEmpty(message = "Contact Information is required")
     private String contactInformation;
+
+
 }

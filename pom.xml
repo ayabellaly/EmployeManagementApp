@@ -102,7 +102,20 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.miglayout</groupId>
+			<artifactId>miglayout-swing</artifactId>
+			<version>11.0</version>
+		</dependency>
+
+
+
+
 	</dependencies>
+
+
+
 
 	<build>
 		<plugins>
